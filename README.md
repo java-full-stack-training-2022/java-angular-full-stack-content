@@ -4,7 +4,7 @@
 2. Operating System
 3. Unix/Linux
 4. Git
-5. Java 8+
+5. Core Java 8+
 
     5.1. Java: Basics
     
