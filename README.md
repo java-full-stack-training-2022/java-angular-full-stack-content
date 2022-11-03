@@ -10,15 +10,13 @@
     
     5.2. Java: Object Oriented Programming Structure
     
-    5.3. Java: Core
+    5.4. Java: Collection Hierarchy
     
-    5.4. Java: Exception Handling
+    5.5. Java: Exception Handling
     
-    5.5. Java: Collection Hierarchy
+    5.6. Java: Java 8 Features
     
-    5.6. Java: Java DataBase Connectivity (JDBC)
-    
-    5.7. Java: Java 8 Features
+    5.7. Java: Java DataBase Connectivity (JDBC)
 6. SQL - Database
 7. Advanced Java
 8. HTML 5
